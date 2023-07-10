@@ -1,6 +1,6 @@
 ## System Design In Practice
 
-Get ready for System Design Interviews using practical examples.
+Get ready for System Design Interviews using practical examples from Twitter, Instagram, TikTok, etc.
 
 ### Table of contents
 
