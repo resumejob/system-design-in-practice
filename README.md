@@ -1,6 +1,25 @@
-## System design in practice
+## System Design In Practice
 
-Learn how to do system design with practical examples from Twitter, Instagram, Pinterest etc.
+Get ready for System Design Interviews using practical examples.
+
+### Table of contents
+
+- News Feed
+- GEO Base
+- IM
+- Live
+- Video
+- File Sync
+- Search
+- Ranking
+- Trading
+- Cooperative editing
+- Booking
+- Shopping
+- CPU-bound
+- Infrastructure
+
+### Table
 
 | Category    |  Resources | Tutorial |
 | ---------   | -------   | -------  |
