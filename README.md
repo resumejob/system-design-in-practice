@@ -4,8 +4,30 @@ Get ready for System Design Interviews using practical examples from Twitter, In
 
 ### Table of contents
 
-- [SWE (Software Engineering)](#swe-software-engineering)
-- [ML/AI Engineer (Machine Learning / AI Engineering)](#mlai-engineer-machine-learning--ai-engineering)
+#### SWE (Software Engineering)
+- [News Feed](#news-feed)
+- [GEO Base](#geo-base)
+- [IM](#im)
+- [Live](#live)
+- [Video](#video)
+- [File Sync](#file-sync)
+- [Search](#search)
+- [Ranking](#ranking)
+- [Trading](#trading)
+- [Cooperative editing](#cooperative-editing)
+- [Booking](#booking)
+- [Shopping](#shopping)
+- [CPU-bound](#cpu-bound)
+- [Infrastructure](#infrastructure)
+
+#### ML/AI Engineer (Machine Learning / AI Engineering)
+- [Recommendation Systems](#recommendation-systems)
+- [Search & Ranking](#search--ranking)
+- [Advertising system](#advertising-system)
+- [Computer Vision Systems](#computer-vision-systems)
+- [Model Versioning & MLOps](#model-versioning--mlops)
+- [ML Data Infrastructure](#ml-data-infrastructure)
+- [LLM related](#llm-related)
 
 ---
 
