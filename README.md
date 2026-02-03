@@ -125,6 +125,7 @@ Get ready for System Design Interviews using practical examples from Twitter, In
 - [Under the Hood: Building out the infrastructure for Graph Search](https://engineering.fb.com/2013/03/06/core-data/under-the-hood-building-out-the-infrastructure-for-graph-search/) (Meta)
 - [Omnisearch index formats](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2016/omnisearch-index-formats) (Twitter)
 - [Reducing search indexing latency to one second](https://blog.x.com/engineering/en_us/topics/infrastructure/2020/reducing-search-indexing-latency-to-one-second) (X)
+- [Nebula as a Storage Platform to Build Airbnb's Search Backends](https://medium.com/airbnb-engineering/nebula-as-a-storage-platform-to-build-airbnbs-search-backends-ecc577b05f06) (Airbnb)
 
 ### Ranking
 
@@ -214,6 +215,7 @@ Get ready for System Design Interviews using practical examples from Twitter, In
 - [FOQS: Scaling a Distributed Priority Queue](https://engineering.fb.com/2021/02/22/production-engineering/foqs-scaling-a-distributed-priority-queue) (Meta)
 - [MetricsDB: TimeSeries Database for storing metrics at Twitter](https://blog.x.com/engineering/en_us/topics/infrastructure/2019/metricsdb) (X)
 - [PinCompute: A Kubernetes Backed General Purpose Compute Platform for Pinterest](https://medium.com/pinterest-engineering/pincompute-a-kubernetes-backed-general-purpose-compute-platform-for-pinterest-8ad408df2d6f) (Pinterest)
+- [Building a Next-Generation Key-Value Store at Airbnb](https://medium.com/airbnb-engineering/building-a-next-generation-key-value-store-at-airbnb-0de8465ba354) (Airbnb)
 
 ---
 
@@ -231,6 +233,7 @@ Get ready for System Design Interviews using practical examples from Twitter, In
 - [Journey to 1000 Models: Scaling Instagram's Recommendation System](https://engineering.fb.com/2025/05/21/production-engineering/journey-to-1000-models-scaling-instagrams-recommendation-system) (Meta)
 - [Twitter's Recommendation Algorithm](https://blog.x.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm) (X)
 - [Modernizing Home Feed Pre-Ranking Stage](https://medium.com/pinterest-engineering/modernizing-home-feed-pre-ranking-stage-e636c9cdc36b) (Pinterest)
+- [Building Airbnb Categories with ML and Human-in-the-Loop](https://airbnb.tech/ai-ml/building-airbnb-categories-with-ml-and-human-in-the-loop/) (Airbnb)
 
 ### Search & Ranking
 
@@ -241,6 +244,10 @@ Get ready for System Design Interviews using practical examples from Twitter, In
 
 #### Advanced
 - [Using Deep Learning at Scale in Twitter's Timelines](https://blog.x.com/engineering/en_us/topics/insights/2017/using-deep-learning-at-scale-in-twitters-timelines) (X)
+- [Embedding-Based Retrieval for Airbnb Search](https://medium.com/airbnb-engineering/embedding-based-retrieval-for-airbnb-search-aabebfc85839) (Airbnb)
+- [Transforming Location Retrieval at Airbnb: A Journey from Heuristics to Reinforcement Learning](https://medium.com/airbnb-engineering/transforming-location-retrieval-at-airbnb-a-journey-from-heuristics-to-reinforcement-learning-d33ffc4ddb8f) (Airbnb)
+- [Machine Learning-Powered Search Ranking of Airbnb Experiences](https://medium.com/airbnb-engineering/machine-learning-powered-search-ranking-of-airbnb-experiences-110b4b1a0789) (Airbnb)
+- [Beyond A/B Test: Speeding up Airbnb Search Ranking Experimentation through Interleaving](https://airbnb.tech/data/beyond-a-b-test-speeding-up-airbnb-search-ranking-experimentation-through-interleaving/) (Airbnb)
 
 ### Advertising system
 
